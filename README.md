@@ -2,7 +2,7 @@
 Slides for talks/workshops I gave ordered by catergory
 
 ## Go
-* Going Go [WIP]
+* [Going to learn Go](https://docs.google.com/presentation/d/1biS9BFx5W9NHTDTf7bpFoki4kmrX3v4J7qmOru7-oVM/edit?usp=sharing) (November 2017)
 
 ## Docker 
  * [Dutch] [ASP.net on Docker](https://docs.google.com/presentation/d/1GI-2BkjgK8PGSUI4lyepnCRYHaFhK5uBSbVHPi5DeTI/edit?usp=sharing) (November 2016)
