@@ -10,3 +10,4 @@ Slides for talks/workshops I gave ordered by catergory
 ## Electronics
  * [Cooling monitoring intro](https://docs.google.com/presentation/d/133xpBUE_acslVUcudwYcfuak7STw0niPNOy38Daqf7Y/edit?usp=sharing) (October 2017)
  * [Cooling monitoring + Continuous ino mid term](https://docs.google.com/presentation/d/1f3ZfPS9hDf4rcAGoqXM7P9uwuKj5NWtparRQBS5OCcM/edit?usp=sharing) (November 2017)
+  * [Cooling monitoring final](https://docs.google.com/presentation/d/1aejnhmTDRiZKuFFRqrzR_X-FzzrlZSo5Tbn8qrUQCYU/edit?usp=sharing) (December 2017)
