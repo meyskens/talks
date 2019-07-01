@@ -3,6 +3,7 @@ Slides for talks/workshops I gave ordered by catergory
 
 ## Go
 * [Going to learn Go](https://docs.google.com/presentation/d/1biS9BFx5W9NHTDTf7bpFoki4kmrX3v4J7qmOru7-oVM/edit?usp=sharing) (November 2017)
+* [State of Go](https://speakerdeck.com/campoy/the-state-of-go-feb-2019) ([video](https://www.youtube.com/watch?v=mVAh5NSPlnE)) (February 2019)
 
 ## Docker 
  * [Dutch] [ASP.net on Docker](https://docs.google.com/presentation/d/1GI-2BkjgK8PGSUI4lyepnCRYHaFhK5uBSbVHPi5DeTI/edit?usp=sharing) (November 2016)
@@ -12,3 +13,6 @@ Slides for talks/workshops I gave ordered by catergory
  * [Cooling monitoring + Continuous ino mid term](https://docs.google.com/presentation/d/1f3ZfPS9hDf4rcAGoqXM7P9uwuKj5NWtparRQBS5OCcM/edit?usp=sharing) (November 2017)
   * [Cooling monitoring final](https://docs.google.com/presentation/d/1aejnhmTDRiZKuFFRqrzR_X-FzzrlZSo5Tbn8qrUQCYU/edit?usp=sharing) (December 2017)
   * [Cooling monitoring final 2.0](https://docs.google.com/presentation/d/1JlxvyX6jugytjKkR3pp7gyNfFqFyacZSb2p2K--kTk4/edit?usp=sharing) (February 2018)
+
+## Other
+* [JupyterHub](https://speakerdeck.com/meyskens/jupyterhub) (June 2019)
