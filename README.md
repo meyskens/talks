@@ -15,7 +15,7 @@ Slides for talks/workshops I gave ordered by catergory
   * [Cooling monitoring final 2.0](https://docs.google.com/presentation/d/1JlxvyX6jugytjKkR3pp7gyNfFqFyacZSb2p2K--kTk4/edit?usp=sharing) (February 2018)
 
 ## Kubernetes
-* [Extending Kubernetes with Go](https://speakerdeck.com/meyskens/extending-kubernetes-with-go)
+* [Extending Kubernetes with Go](https://speakerdeck.com/meyskens/extending-kubernetes-with-go) (August 2019)
 
 ## Other
 * [JupyterHub](https://speakerdeck.com/meyskens/jupyterhub) (June 2019)
