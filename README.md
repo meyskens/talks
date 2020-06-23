@@ -16,6 +16,7 @@ Slides for talks/workshops I gave ordered by catergory
 
 ## Kubernetes
 * [Extending Kubernetes with Go](https://speakerdeck.com/meyskens/extending-kubernetes-with-go) (August 2019)
+* [Kubernetes + Terraform Terraformin TLS with cert-manager](https://docs.google.com/presentation/d/1SkBUzP_KoPcGvh5RiYs34zJREarkBeYNNjLpnAWN2Xo/edit?usp=sharing) (June 
 
-## Other
+## Other)
 * [JupyterHub](https://speakerdeck.com/meyskens/jupyterhub) (June 2019)
